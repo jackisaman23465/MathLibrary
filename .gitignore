@@ -1,3 +1,6 @@
 .DS_Store
 /MathLibrary/obj
 /MathLibrary/bin
+/MathLibraryTest/obj
+/MathLibraryTest/bin
+MathLibraryTest/log.txt

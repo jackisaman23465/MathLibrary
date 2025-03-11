@@ -1,9 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <Reference Include="MathLibrary">
-      <HintPath>MathLibrary.dll</HintPath>
-    </Reference>
+    <ProjectReference Include="..\MathLibrary\MathLibrary.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
